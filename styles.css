@@ -136,11 +136,5 @@ h1 {
 		grid-template-columns: 1fr;
 		grid-template-rows: 244px auto;
 	}
-	figure {
-		background-image: linear-gradient(
-				var(--Soft-violet-accent-transparent),
-				var(--Soft-violet-accent-transparent)
-			),
-			url(images\\image-header-mobile.jpg);
-	}
+
 }
