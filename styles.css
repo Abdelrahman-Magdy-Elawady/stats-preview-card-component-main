@@ -98,7 +98,11 @@ h1 {
 		grid-template-rows: 540px auto;
 	}
 	figure {
-		background-position: top;
+		background-image: linear-gradient(
+				var(--Soft-violet-accent-transparent),
+				var(--Soft-violet-accent-transparent)
+			),
+			url(images\\image-header-mobile.jpg);
 		grid-row: 1;
 	}
 	#text-content {
