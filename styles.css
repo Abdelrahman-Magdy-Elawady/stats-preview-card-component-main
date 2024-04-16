@@ -104,6 +104,7 @@ h1 {
 			),
 			url(images\\image-header-mobile.jpg);
 		grid-row: 1;
+		background-position:top right;
 	}
 	#text-content {
 		grid-row: 2;
